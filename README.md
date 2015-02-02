@@ -59,7 +59,7 @@ Optionally, you can supply a where clause which will be passed to the SQL server
 ```
 
 ## License
-MIT
+Standard MIT License: 
 
 Copyright (c) 2015 Rick O'Halloran
 
